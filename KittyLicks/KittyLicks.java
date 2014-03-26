@@ -12,7 +12,7 @@ public class KittyLicks {
 			System.out.println("Kitty licks your" + " " + wordList[rand1]);
 			x = x - 1;
 		}
-		System.out.println("..... ....  ...");
+		System.out.println("..... ....  ....");
 		System.out.println("Kitty walks away now.");
 	}
 }
