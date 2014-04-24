@@ -1,6 +1,6 @@
 class Movie {
-	string title;
-	string genre;
+	String title;
+	String genre;
 	int rating;
 	
 	void playIt() {
